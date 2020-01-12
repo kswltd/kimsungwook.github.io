@@ -2,6 +2,14 @@
 title: "Welcome to Jekyll!"
 date: 2020-01-12 08:26:28 -0400
 categories: jekyll update
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: mailto:kswltd@postech.ac.kr
+  - label: "Github"
+    icon: "fas fa-fw fa"
+    url: "https://kswltd.github.io"
+    
 logo: /images/My_logo.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
