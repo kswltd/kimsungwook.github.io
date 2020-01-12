@@ -7,8 +7,8 @@ links:
     icon: "fas fa-fw fa-envelope-square"
     url: mailto:kswltd@postech.ac.kr
   - label: "Github"
-    icon: "fas fa-fw fa"
-    url: "https://kswltd.github.io"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/kswltd"
     
 logo: /images/My_logo.png
 ---
