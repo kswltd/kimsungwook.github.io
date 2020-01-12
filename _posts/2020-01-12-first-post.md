@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2020-01-12 08:26:28 -0400
-categories: jekyll update
+categories: jekyll
 links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
