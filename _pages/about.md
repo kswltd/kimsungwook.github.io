@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: https://kswltd.github.io/about
+permalink: /about/
 layout: single
 ---
 
