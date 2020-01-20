@@ -18,13 +18,13 @@ last_modified_at: 2020-01-12T08:06:00-05:00
 ![](images/andywarhol_museum0.jpg){: .align-center}
 
 피츠버그 오케스트라 공연장
-![](images/pitt_orchestra0.jpg){: .align-center}
-![](images/pitt_orchestra1.jpg){: .align-center}
+![](/images/pitt_orchestra0.jpg){: .align-center}
+![](/images/pitt_orchestra1.jpg){: .align-center}
 
 ![](/images/Mart1.png){: .align-center}
 
 조성진 피아니스트 사인회
-![](images/pitt_orchestra2.jpg){: .align-center}
+![](/images/pitt_orchestra2.jpg){: .align-center}
 
 한인회 Dinner at Szechuan Spice, 5700 Centre Ave, Pittsburgh, PA 15206
-![](images/한인회_저녁0.jpg){: .align-center}
+![](/images/한인회_저녁0.jpg){: .align-center}
