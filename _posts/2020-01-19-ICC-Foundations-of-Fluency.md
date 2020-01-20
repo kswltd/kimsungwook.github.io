@@ -26,7 +26,7 @@ Understanding some basic differences within the US classroom can help you better
   
 # 2. Understanding the US classroom learning environment:
 
->> "So, what I had to do in order to become a good TA for American students was adapt myself to the way in the US teachers and TAs are supposed to interact with their students... In my case, I forced myself to start with examples instead of with theory if I speak with American students... If I speak with American students, I always try to use a more practical approach, staring with applications, examples. Even if I think that theory should always come before the application..."
+> "So, what I had to do in order to become a good TA for American students was adapt myself to the way in the US teachers and TAs are supposed to interact with their students... In my case, I forced myself to start with examples instead of with theory if I speak with American students... If I speak with American students, I always try to use a more practical approach, staring with applications, examples. Even if I think that theory should always come before the application..."
 
 # 3. Robust Teaching Fluency:
 An overview of the language skills needed to interact with learners
@@ -38,6 +38,6 @@ An overview of the language skills needed to interact with learners
 
   - Step 3: Reword (i.e. Can you say Newton's First Law in another way without using any jargons?)
 
-## My answer:
+## My Response:
 > When the a moving bus stops suddenly, a person standing inside the bus will want move in the same direction as the bus was moving before it stopped.
 
