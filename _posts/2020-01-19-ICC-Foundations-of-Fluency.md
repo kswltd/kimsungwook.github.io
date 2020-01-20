@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-01-19T08:06:00-05:00
 ---
 
-# 1. Cross-cultural issues in the classroom:
+# 1. Cross-cultural issues in the classroom
 Understanding some basic differences within the US classroom can help you better compensate for language gaps and deal effectively with CMU students.
 
 - What are some key differences between Teacher-Centered versus Learner-Centered classrooms?
@@ -24,11 +24,11 @@ Understanding some basic differences within the US classroom can help you better
   - Rugby: Conversing with people is more like a battle (e.g. South America)
     - E.g. A Columbian guy gets in a business meeting with four Japanese business men.
   
-# 2. Understanding the US classroom learning environment:
+# 2. Understanding the US classroom learning environment
 
 > "So, what I had to do in order to become a good TA for American students was adapt myself to the way in the US teachers and TAs are supposed to interact with their students... In my case, I forced myself to start with examples instead of with theory if I speak with American students... If I speak with American students, I always try to use a more practical approach, staring with applications, examples. Even if I think that theory should always come before the application..."
 
-# 3. Robust Teaching Fluency:
+# 3. Robust Teaching Fluency
 An overview of the language skills needed to interact with learners
 
 - To explain Newton's First Law of Motion (A body in motion stays in motion unless acted on by an external force), use these steps:
@@ -41,3 +41,14 @@ An overview of the language skills needed to interact with learners
 ## My Response:
 > When the a moving bus stops suddenly, a person standing inside the bus will want move in the same direction as the bus was moving before it stopped.
 
+# 4. Pronunciation for Comprehensibility
+Basic steps that can greatly improve your speech
+
+- Slow down
+- Improve stress for emphases ('emphatic stress')
+  - Basic technique:
+    - 1. LOUDER
+    - 2. Loooonger
+    - 3. --Pause--
+    
+  - E.g. CARnegie MELlon UNIversity
