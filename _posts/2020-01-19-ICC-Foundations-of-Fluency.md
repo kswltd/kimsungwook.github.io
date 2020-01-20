@@ -22,7 +22,7 @@ Understanding some basic differences within the US classroom can help you better
   - Bowling: a player throws the ball one at a time while the rest watches him (e.g. Japan)
   - Basketball: a player does not hold the ball for too long before he passes to another, one often interrupts another in a conversation to say what he knows (e.g. America)
   - Rugby: Conversing with people is more like a battle (e.g. South America)
-   - E.g. Columbian guy gets in a business meeting with four Japanese business men.
+    - E.g. Columbian guy gets in a business meeting with four Japanese business men.
   
 # 2. Understanding the US classroom learning environment:
 
@@ -32,11 +32,11 @@ Understanding some basic differences within the US classroom can help you better
 An overview of the language skills needed to interact with learners
 
 - To explain Newton's First Law of Motion (A body in motion stays in motion unless acted on by an external force), use these steps:
- - Step 1: Give an example:
+  - Step 1: Give an example:
 
- - Step 2: State Newton's Law
+  - Step 2: State Newton's Law
 
- - Step 3: Reword (i.e. Can you say Newton's First Law in another way without using any jargons?)
+  - Step 3: Reword (i.e. Can you say Newton's First Law in another way without using any jargons?)
 
 ## My answer:
 > When the a moving bus stops suddenly, a person standing inside the bus will want move in the same direction as the bus was moving before it stopped.
