@@ -15,14 +15,14 @@ last_modified_at: 2020-01-19T08:06:00-05:00
 Understanding some basic differences within the US classroom can help you better compensate for language gaps and deal effectively with CMU students.
 
 - What are some key differences between Teacher-Centered versus Learner-Centered classrooms?
-  - Teacher-Centered: students hardly asks any questions to the instructor in authority
+  - Teacher-Centered: students hardly ask any questions to the instructor in authority
   - Learner-Centered: students often lead the lecture and the instructor only suggests some directions
   
-- Speaking manner is different in the US
+- Conversation manner is different in the US
   - Bowling: a player throws the ball one at a time while the rest watches him (e.g. Japan)
   - Basketball: a player does not hold the ball for too long before he passes to another, one often interrupts another in a conversation to say what he knows (e.g. America)
   - Rugby: Conversing with people is more like a battle (e.g. South America)
-    - E.g. Columbian guy gets in a business meeting with four Japanese business men.
+    - E.g. A Columbian guy gets in a business meeting with four Japanese business men.
   
 # 2. Understanding the US classroom learning environment:
 
