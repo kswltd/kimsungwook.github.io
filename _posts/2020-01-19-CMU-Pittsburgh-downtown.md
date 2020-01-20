@@ -21,7 +21,7 @@ last_modified_at: 2020-01-12T08:06:00-05:00
 ![](images/pitt_orchestra0.jpg){: .align-center}
 ![](images/pitt_orchestra1.jpg){: .align-center}
 
-![](https://devinlife.com/assets/images/bio-photo-keyboard-small.jpg){: .align-center}
+![](/images/Mart1.png){: .align-center}
 
 조성진 피아니스트 사인회
 ![](images/pitt_orchestra2.jpg){: .align-center}
