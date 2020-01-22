@@ -54,4 +54,12 @@ academics, students, research funders, etc.); in other words, use English as a p
     8. Police Begin to Run Down Jaywalkers
     9. Drunks Get Nine Months in Violin Case
     
+- Example: Stolen Painting Found by Tree
+
+|                                               |
+| :-------------------------------------------- |
+| **Overview: What does the explanation focus on?**<br/>The chosen headline sounds funny because the word 'by' can be used differently depending on in which context the word is used |
+| **Details: What details are needed to support the overview? Which linking phrases should be used?**<br/>The first usage of 'by' is to indicate who found it. In this case, the headline can be interpreted as having a tree that discovered a stolen painting. The second usage of 'by' is to indicate where it was found. People may think a stolen paining was found next to a tree |
+| **Wrap-up: What do you want the listener to remember about the explanation?**<br/>So the headline sounds funny because it confuses the readers to think differently about the situation because of the double-meaning of the word 'by' |
+    
 #### *2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved*
