@@ -30,10 +30,14 @@ academics, students, research funders, etc.); in other words, use English as a p
 - Link concepts and ideas through transitional language
 
 # 4. Why is this cartoon funny? What are the concepts underlying the humor?
-<img align="center" width="400" height="100" src="/images/ICC0.png">
+<p align="center">
+  <img width="500" height="200" src="/images/ICC0.png">
+</p>
 
+<p style="text-align: center;">
 |                                               |
 | :-------------------------------------------: |
 | Overview: What does the explanation focus on? |
 | Details: What details are needed to support the overview? Which linking phrases should be used? |
 | Wrap-up: What do you want the listener to remember about the explanation? |
+</p>
