@@ -30,6 +30,7 @@ academics, students, research funders, etc.); in other words, use English as a p
 - Link concepts and ideas through transitional language
 
 # 4. Why is this cartoon funny? What are the concepts underlying the humor?
+<img align="center" width="100" height="100" src="/images/ICC0.png">
 ![](/images/ICC0.png)  
 
 |                                               |
