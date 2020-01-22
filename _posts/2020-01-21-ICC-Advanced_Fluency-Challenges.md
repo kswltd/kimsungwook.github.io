@@ -54,7 +54,7 @@ academics, students, research funders, etc.); in other words, use English as a p
     8. Police Begin to Run Down Jaywalkers
     9. Drunks Get Nine Months in Violin Case
     
-- Example: Stolen Painting Found by Tree
+- Exercise: Stolen Painting Found by Tree
 
 |                                               |
 | :-------------------------------------------- |
