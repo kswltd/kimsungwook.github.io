@@ -35,4 +35,5 @@ academics, students, research funders, etc.); in other words, use English as a p
 | Overview: What does the explanation focus on? |
 | --------------------------------------------- |
 | Details: What details are needed to support the overview? Which linking phrases should be used? |
+| ------------------------------------------------------------------------- |
 | Wrap-up: What do you want the listener to remember about the explanation? |
