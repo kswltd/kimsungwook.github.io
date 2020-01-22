@@ -36,7 +36,6 @@ academics, students, research funders, etc.); in other words, use English as a p
 
 |                                               |
 | :-------------------------------------------: |
-| ## Overview: What does the explanation focus on?  The cartoon is funny because of the double meaning of the word positive |
-| ## Details: What details are needed to support the overview? Which linking phrases should be used?  The first meaning of positive is a 
-non neutral state / an atom that has lost an electron. The second meaning of positive is being in a good mood |
-| ## Wrap-up: What do you want the listener to remember about the explanation?  So the comic is funny because it blends two contrary ideas together / the double meaning is unexpected |
+| **Overview: What does the explanation focus on?**  The cartoon is funny because of the double meaning of the word positive |
+| **Details: What details are needed to support the overview? Which linking phrases should be used?**  The first meaning of positive is a non neutral state / an atom that has lost an electron. The second meaning of positive is being in a good mood |
+| **Wrap-up: What do you want the listener to remember about the explanation?**  So the comic is funny because it blends two contrary ideas together / the double meaning is unexpected |
