@@ -31,11 +31,6 @@ academics, students, research funders, etc.); in other words, use English as a p
 
 # 4. Why is this cartoon funny? What are the concepts underlying the humor?
 ![](/images/ICC0.png)
-|Overview: What does the explanation focus on?|
-|Details: What details are needed to support the overview? Which linking phrases should be used?|
-|Wrap-up: What do you want the listener to remember about the explanation?|
-
-| 항목 | 가격 | 개수 |
-|:---:|:----:|:----|
-| 라면 | 800원 | 10개 |
-| 과자 | 900원 | 20개 |
+| Overview: What does the explanation focus on? |
+| Details: What details are needed to support the overview? Which linking phrases should be used? |
+| Wrap-up: What do you want the listener to remember about the explanation? |
