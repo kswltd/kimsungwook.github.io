@@ -54,4 +54,4 @@ academics, students, research funders, etc.); in other words, use English as a p
     8. Police Begin to Run Down Jaywalkers
     9. Drunks Get Nine Months in Violin Case
     
-#### 2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved 
+*#### 2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved*
