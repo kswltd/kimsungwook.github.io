@@ -32,6 +32,7 @@ academics, students, research funders, etc.); in other words, use English as a p
 # 4. Why is this cartoon funny? What are the concepts underlying the humor?
 ![](/images/ICC0.png)  
 
+|                                               |
 | :-------------------------------------------: |
 | Overview: What does the explanation focus on? |
 | Details: What details are needed to support the overview? Which linking phrases should be used? |
