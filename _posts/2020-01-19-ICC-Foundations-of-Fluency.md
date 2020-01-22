@@ -52,3 +52,5 @@ Basic steps that can greatly improve your speech
     - 3. --Pause--
     
   - E.g. CARnegie MELlon UNIversity
+  
+#### *2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved*
