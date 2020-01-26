@@ -29,7 +29,7 @@ Josh
 3. Acknowledge that the recipient can say no (polite form of requesting) - don't back your recipient into a corner
 4. Provide any necessary details (several options for recipient)
 
-# 2. Useful language for polite requests
+# 2. Useful Language for Polite Requests
 - Could you please ..
 - I know you are busy but ..
 - I was wondering whether you could ..
@@ -39,44 +39,38 @@ Josh
 - I would greatly appreciate if ..
 - I was hoping you could help me
 
-# 3. English honorifics
+# 3. English Honorifics
 - Dr.
 - Mr.
 - Mrs. (married women)
 - Ms. (unmarried women without a doctorate)
 - Miss (unmarried women betweem age of 14 - 30)
+- Normally use Dr., Mr. and Ms. for academic purposes
 
-# 4. Why is this cartoon funny? What are the concepts underlying the humor?
-<p align="center">
-  <img width="500" height="200" src="/images/ICC0.png">
-</p>
+# 4. Common Closings
+- Thanks, Regards, Best, 'Hello ICC staff/member/representative'
+- Not common anymore
+  - 'Best regards', 'sincerely'
+  - 'Dear', 'To whom it may concern', 'Dear sir/madam'
 
-|                                               |
-| :-------------------------------------------- |
-| **Overview: What does the explanation focus on?**<br/>The cartoon is funny because of the double meaning of the word positive |
-| **Details: What details are needed to support the overview? Which linking phrases should be used?**<br/>The first meaning of positive is a non neutral state / an atom that has lost an electron. The second meaning of positive is being in a good mood |
-| **Wrap-up: What do you want the listener to remember about the explanation?**<br/>So the comic is funny because it blends two contrary ideas together / the double meaning is unexpected |
+# 5. Writing Email Apologies
+Apology example: 
 
-- Fluency building exercise
-  - Each of the following phrases is a newspaper headline. These headlines sound funny because they include "double meanings", which
-  change the underlying meaning of the headline.
-  
-    1. Include Your Children When Baking Cookies
-    2. Iraqi Head Seeks Arms
-    3. Stolen Painting Found by Tree
-    4. Red Tape Holds Up New Bridges
-    5. New Study on Obesity Looks for Larger Test Group
-    6. Local High School Dropouts Cut in Half
-    7. Hospitals Are Sued By 7 Foot Doctors
-    8. Police Begin to Run Down Jaywalkers
-    9. Drunks Get Nine Months in Violin Case
-    
-- Exercise: Stolen Painting Found by Tree
+Subject: Absence on Friday (9/12)
 
-|                                               |
-| :-------------------------------------------- |
-| **Overview: What does the explanation focus on?**<br/>The chosen headline sounds funny because the word 'by' can be used differently depending on in which context the word is used |
-| **Details: What details are needed to support the overview? Which linking phrases should be used?**<br/>The first usage of 'by' is to indicate who found it. In this case, the headline can be interpreted as having a tree that discovered a stolen painting. The second usage of 'by' is to indicate where it was found. People may think a stolen paining was found next to a tree |
-| **Wrap-up: What do you want the listener to remember about the explanation?**<br/>So the headline sounds funny because it confuses the readers to think differently about the situation because of the double-meaning of the word 'by' |
+Dr. Heart,
+
+This is Joe Adams from your Psych 350 class. I am very sorry for missing Friday's class. I was not feeling well, so I went to the health center. I will get the notes and homework assignment from a classmate, but I was wondering if there is anything else I should do to make up for the work that I missed.
+
+Thanks for your help,
+Joe
+
+## Organization:
+1. Greetings, identification
+2. The apology
+3. A brief explanation/excuse (don't include too much personal detail!)
+4. Your action plan (a key component)
+5. Another apology in closing (optional)
+6. Closing
     
 #### *2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved*
