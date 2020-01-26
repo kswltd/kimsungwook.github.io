@@ -23,7 +23,7 @@ This is Josh Brown from your Organic Chemistry class. I was wondering if you cou
 Thanks,
 Josh
 
-## Organization:
+## Organization
 1. Greeting, identification (optional)
 2. Give the specific request (often in a question form; direct)
 3. Acknowledge that the recipient can say no (polite form of requesting) - don't back your recipient into a corner
@@ -54,7 +54,7 @@ Josh
   - 'Dear', 'To whom it may concern', 'Dear sir/madam'
 
 # 5. Writing Email Apologies
-Apology example: 
+Apology example:
 
 Subject: Absence on Friday (9/12)
 
