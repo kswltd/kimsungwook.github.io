@@ -49,9 +49,9 @@ The following are general strategies for explaining a visual aid.
   
 ## Looking at the visual aid below, describe it following the above steps
 <p align="center">
-  <img width="500" height="200" src="/images/ICC1.jpg">
+  <img width="500" height="400" src="/images/ICC1.jpg">
 </p>
-\\
+
 __This is an illustration that represents how many new international students joined CMU in Summer and Fall semesters in year 2018. The illustration has two visual aids one of which is a table and the other is a pie chart. For the table, the actual numbers of international students as well as the percentages by education are specified on the right side of the table. In case of the pie chart, it shows the relative size of the number of students. This is more intuitive as it is illustrated by the size of different pies depending on the categries which they belong to.__
 
 #### *2020 Carnegie Mellon Universiy Intercultural Communication Center All Rights Reserved*
