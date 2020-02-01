@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-01-31T08:06:00-05:00
 ---
 
-# __"A picture is worth a thousand words."__\\
+# __"A picture is worth a thousand words."__
 Visual aids may include graphs, tables, models, diagrams, flow charts, photographs, illustrations or simple blackboard drawings. They
 help to encourage student interest and increase understanding of many concepts. To be effective, visuals should be chosen carefully,
 be well-organized, and legible.\\\\
